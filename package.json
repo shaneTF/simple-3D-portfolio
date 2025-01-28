@@ -12,9 +12,9 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "4.3",
+    "serve": "^14.2.4",
     "vite": "^5.3.3",
-    "vite-plugin-restart": "^0.4.1",
-    "serve": "^14.2.4"
+    "vite-plugin-restart": "^0.4.1"
   },
   "dependencies": {
     "@react-three/drei": "^9.108.1",
