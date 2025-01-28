@@ -14,7 +14,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "4.3",
-    "serve": "^14.2.4",
     "vite": "^5.3.3",
     "vite-plugin-restart": "^0.4.1"
   },
@@ -24,6 +23,7 @@
     "r3f-perf": "^7.2.1",
     "react": "18.3",
     "react-dom": "18.3",
+    "serve": "^14.2.4",
     "three": "^0.166.1"
   }
 }
